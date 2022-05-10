@@ -1,0 +1,17 @@
+# Kickstarting with Excel
+
+## To analyze past theater kickstarter campaigns to help client achieve success. 
+
+### Analysis of Outcomes Based on Launch Date
+	It seems that early summer seems to be the best time to launch a successful theater campaign.
+
+### Analysis of Outcomes Based on Goals
+	There doesn’t seem to be any real relation on how big the size of the goal is, and if it will be successful or not.
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+	It is a good idea to launch a campaign in the early summer.
+	Don’t have a goal higher than $45,000.
+
+- What can you conclude about the Outcomes based on Goals?
+	The really high goals were least successful.
+
